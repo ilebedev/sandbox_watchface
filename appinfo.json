@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ilebedev@mit.edu",
+    "longName": "Sandbox Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Sandbox",
+    "uuid": "149dea35-a633-43ed-901e-abb5036eb9c6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
